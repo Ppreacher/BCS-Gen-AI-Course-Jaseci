@@ -40,8 +40,11 @@ Dive into the classic game of Rock Paper Scissors, brought to life with **Jaseci
 
 ## 📁 File Structure
 Assignment 1/
+
 ├── RockPaperScissor5.jac # Classic intelligent agent version
+
 ├── RockPaperScissor6.jac # AI-powered smart response version
+
 └── README.md # Project overview and instructions
 
 
